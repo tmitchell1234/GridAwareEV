@@ -1,0 +1,10 @@
+[package]
+name = "grid-aware-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4.8.0"
+dotenvy = "0.15.7"
+serde = { version = "1.0.203", features = ["derive"] }
+serde_json = "1.0.118"
