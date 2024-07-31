@@ -17,7 +17,7 @@ function HomePage(){
         
       </header>
       <section className="hero">
-        <h1>EV Grid Aware</h1>
+        <h1>Grid Aware EV Charging</h1>
         <p>Our EV charging solution intelligently regulates energy use, ensuring grid stability and efficient power management.</p>
       </section>
       <section id="features">
